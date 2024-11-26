@@ -1,3 +1,3 @@
-printf(f"a+b"
-       for i in range (10):
-       as
+print(f"a+b")
+for i in range (10):
+    a 

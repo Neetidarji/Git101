@@ -1,2 +1,3 @@
 printf(f"a+b"
-       #naah
+       for i in range (10):
+       as
